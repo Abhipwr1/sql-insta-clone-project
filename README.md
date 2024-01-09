@@ -1,0 +1,1 @@
+This project is related  write SQL queries using a variety of advanced functions to extract valuable insights from the database. These insights could be used by the platform to understand user behavior, engagement, and trends in the database which is similar to insta clone dataset.
